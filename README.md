@@ -1,2 +1,2 @@
 # hello-world
-To learn Fithub workflow
+To learn GitHub workflow
